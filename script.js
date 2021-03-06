@@ -1,0 +1,11 @@
+console.log("Hello Winc Academy");
+let firstName = "Marthe";
+console.log(firstName);
+let number = 4;
+console.log(number + number);
+console.log(28 - 13);
+console.log(number * 3);
+let age = 30;
+console.log(typeof (age));
+let numericalAge = "30";
+console.log(typeof (numericalAge));
